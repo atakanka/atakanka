@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Atakan!
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on : AngularJS
 - 🌱 I’m currently learning : ReactJS
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with Node.js
