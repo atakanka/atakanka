@@ -1,9 +1,4 @@
 ### Hi there 👋 I am Atakan!
-
-- 🔭 I’m currently working on : AngularJS
-- 🌱 I’m currently learning : ReactJS
-- 👯 I’m looking to collaborate on ReactJS
-- 🤔 I’m looking for help with Node.js
 - 💬 Ask me about : Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know 4 foreign languages
